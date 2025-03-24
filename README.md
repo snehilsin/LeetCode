@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/snehilsin/LeetCode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/snehilsin/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/snehilsin/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/snehilsin/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/snehilsin/LeetCode/tree/master/0268-missing-number) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/snehilsin/LeetCode/tree/master/0043-multiply-strings) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/snehilsin/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Depth-First Search
 |  |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/snehilsin/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/snehilsin/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/snehilsin/LeetCode/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/snehilsin/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/snehilsin/LeetCode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/snehilsin/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/snehilsin/LeetCode/tree/master/0242-valid-anagram) |
