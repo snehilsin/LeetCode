@@ -10,7 +10,7 @@ class Solution {
 public:
     bool hasCycle(ListNode *head) {
         // brute force approach --> using map
-        unordered_map<ListNode*, int> mp;
+       /* unordered_map<ListNode*, int> mp;
         ListNode* temp = head;
         while (temp != NULL){
             if (mp.find(temp) != mp.end()){
@@ -18,6 +18,18 @@ public:
             }
             mp[temp] = 1;
             temp = temp->next;
+        }
+        return false; */
+
+        // slow and fast pointer
+        ListNode* slow = head;
+        ListNode* fast = head;
+        while (fast != NULL && fast->next != NULL){
+            slow = slow->next;
+            fast = fast->next->next;
+            if (slow == fast){
+                return true;
+            }
         }
         return false;
     }
