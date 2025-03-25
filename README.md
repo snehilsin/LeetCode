@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/snehilsin/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/snehilsin/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/snehilsin/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0133-clone-graph](https://github.com/snehilsin/LeetCode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/snehilsin/LeetCode/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/snehilsin/LeetCode/tree/master/0210-course-schedule-ii) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/snehilsin/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0133-clone-graph](https://github.com/snehilsin/LeetCode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/snehilsin/LeetCode/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/snehilsin/LeetCode/tree/master/0210-course-schedule-ii) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/snehilsin/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/snehilsin/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/snehilsin/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/snehilsin/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/snehilsin/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/snehilsin/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/snehilsin/LeetCode/tree/master/0148-sort-list) |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/snehilsin/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/snehilsin/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/snehilsin/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0783-search-in-a-binary-search-tree](https://github.com/snehilsin/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -196,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/snehilsin/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/snehilsin/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/snehilsin/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0783-search-in-a-binary-search-tree](https://github.com/snehilsin/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Stack
 |  |
