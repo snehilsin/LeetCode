@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/snehilsin/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/snehilsin/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/snehilsin/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/snehilsin/LeetCode/tree/master/0152-maximum-product-subarray) |
 ## Simulation
 |  |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/snehilsin/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/snehilsin/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/snehilsin/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/snehilsin/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/snehilsin/LeetCode/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/snehilsin/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/snehilsin/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/snehilsin/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/snehilsin/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/snehilsin/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/snehilsin/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/snehilsin/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/snehilsin/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/snehilsin/LeetCode/tree/master/0226-invert-binary-tree) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/snehilsin/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/snehilsin/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/snehilsin/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/snehilsin/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/snehilsin/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/snehilsin/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/snehilsin/LeetCode/tree/master/0226-invert-binary-tree) |
