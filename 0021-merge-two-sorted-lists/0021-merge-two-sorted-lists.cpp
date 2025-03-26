@@ -25,6 +25,7 @@ public:
         }
 
         if(list1 != NULL){
+            // no need of looping simply attach it
             curr->next = list1;
         
             
@@ -35,4 +36,10 @@ public:
         }
         return dummyNode->next;
     }
+
+    // [1, 2, 4], [1, 3, 4]
+    // [-1]-> 1-> 1->2->3->4->4
+    //  curr
+    // [1, 2, 3, 4, 5, 6], [2, 3]
+    // [-1] -> 1->2->3->3->4
 };
