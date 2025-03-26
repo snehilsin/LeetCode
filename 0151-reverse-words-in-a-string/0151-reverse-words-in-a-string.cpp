@@ -2,30 +2,30 @@ class Solution {
 public:
     string reverseWords(string s) {
         string ans = "";
-        int n = s.length();
         stack<string> st;
         string temp = "";
-        for (int i = 0; i < s.length(); i++){
-            char ch = s[i];
-            if (ch == ' '){
+        int n = s.length();
+        for (int i = 0; i < n; i++){
+             char ch = s[i];
+             if (ch == ' '){
                 if (temp != ""){
                     st.push(temp);
                 }
                 temp = "";
-            } else {
-                temp += ch;
-            }
+             } else{
+             temp += ch;
+             }
         }
-        // last word
+        // for the last word
         if (temp != ""){
             st.push(temp);
         }
         while (!st.empty()){
-            ans = ans +  st.top() + " ";
+            ans = ans + st.top() + " ";
             st.pop();
         }
-        ans.pop_back(); // remove last space
+        // to handle last space
+        ans.pop_back();
         return ans;
-
     }
 };
