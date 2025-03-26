@@ -1,44 +1,56 @@
 class Solution {
 public:
-    /*bool isValid(string s) {
-        // map + stack
-        // map --> key = closing parentheses, value --> open parentheses
-        // st has only open parentheses --> when closing parentheses come, use it as a key to find valid open parenthesis
-        // if the two parentheses are not valid, then return false
+    bool isValid(string s) {
+        // I/p - "()"
+        // O/P - true
+
+        // I/P - "() {} []"
+        // O/p - true
+
+        // I/P - "{]"
+        // O/P - false
+
+        // stack 
+        // unordered_map
+        // map --> ")" : "(", "}" : "{", "]" : "["
+        // st --> push opening brackets
+
+        // "()"
+        // st -> (
+        // ) --> key --> map or not --> whether it is equal to my st's top
+        // pop
+        // st --> empty 
+        // valid
+
+
+        // "(())"
+        // st --> ( (
+        // ) --> (  --> st pop
+        //  st -(
+        // )  --> check in map for value --> pop
+        // EMPTY --> return true
+
+        // "(()}"
+        // st --> ( (
+       // check map for its value --> ( == st.top --> pop (
+        // }  --> {  not equal to my st top --> return false
 
         stack<char> st;
-        unordered_map<char, char> mpp = {{')', '('}, 
-                                         {']', '['},
-                                         {'}', '{'}
-                                        }; // closing , opening
+        unordered_map<char, char> mpp = {
+            {")" , "("}, {"}", "{" }, {"]", "["}
+        };
+             
         for (char c : s){
-             if (mpp.find(c) == mpp.end()){
+            if (mpp.find(c) == mpp.end()){
+                // opening parenthesis
                 st.push(c);
-             } else if (!st.empty() && mpp[c] == st.top()){
+            } else if (!st.empty() && mpp[c] == st.top()){
                 st.pop();
-             } else {
+            } else {
                 return false;
-             }
-
-        }
-        return st.empty();
-    }*/
-    bool isPair(char last, char curr){
-        return (last == '(' && curr == ')') || (last == '[' && curr == ']') || (last == '{' && curr == '}');
-    }
-    bool isValid (string s){
-        stack<char> st;
-
-        for (char curr : s){
-            if (!st.empty()){
-                char last = st.top();
-                if (isPair(last, curr)){
-                    st.pop();
-                    continue;
-                }
             }
-            st.push(curr);
         }
         return st.empty();
+
     }
 };
