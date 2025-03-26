@@ -43,6 +43,7 @@ public:
                 ListNode* l2 = i + 1 < lists.size() ? lists[i+1] : NULL;
                 temp.push_back(merge(l1, l2));
             }
+            // reduce the size of lists
             lists = temp;
         }
         return lists[0];
