@@ -1,41 +1,10 @@
 class Solution {
 public:
+  
     bool isValid(string s) {
-        // I/p - "()"
-        // O/P - true
+       
 
-        // I/P - "() {} []"
-        // O/p - true
-
-        // I/P - "{]"
-        // O/P - false
-
-        // stack 
-        // unordered_map
-        // map --> ")" : "(", "}" : "{", "]" : "["
-        // st --> push opening brackets
-
-        // "()"
-        // st -> (
-        // ) --> key --> map or not --> whether it is equal to my st's top
-        // pop
-        // st --> empty 
-        // valid
-
-
-        // "(())"
-        // st --> ( (
-        // ) --> (  --> st pop
-        //  st -(
-        // )  --> check in map for value --> pop
-        // EMPTY --> return true
-
-        // "(()}"
-        // st --> ( (
-       // check map for its value --> ( == st.top --> pop (
-        // }  --> {  not equal to my st top --> return false
-
-        stack<char> st;
+       /* stack<char> st;
         unordered_map<char, char> mpp = {
             {')' , '('}, {'}', '{' }, {']', '['}
         };
@@ -50,7 +19,21 @@ public:
                 return false;
             }
         }
-        return st.empty();
+        return st.empty(); */
 
+       // st --> opening parentheses
+
+       stack<char> st;
+       for (char c : s){
+          if (c == '(' || c == '{' || c == '['){
+            st.push(c);
+          } else {
+            if (st.empty() || (c ==  ')' && st.top() != '(') || (c == '}' && st.top() != '{') || ( c == ']' && st.top() != '[')){
+                return false;
+            }
+            st.pop();
+          }
+       }
+       return st.empty();
     }
 };
