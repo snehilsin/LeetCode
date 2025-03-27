@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/snehilsin/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/snehilsin/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2737-row-with-maximum-ones](https://github.com/snehilsin/LeetCode/tree/master/2737-row-with-maximum-ones) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/snehilsin/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/snehilsin/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3430-count-days-without-meetings](https://github.com/snehilsin/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/snehilsin/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/snehilsin/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/snehilsin/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/snehilsin/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/snehilsin/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Binary Search
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/snehilsin/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/snehilsin/LeetCode/tree/master/0268-missing-number) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/snehilsin/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/snehilsin/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/snehilsin/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/snehilsin/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Prefix Sum
