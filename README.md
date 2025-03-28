@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/snehilsin/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/snehilsin/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/snehilsin/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/snehilsin/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2737-row-with-maximum-ones](https://github.com/snehilsin/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/snehilsin/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/snehilsin/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/snehilsin/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/snehilsin/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/snehilsin/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/snehilsin/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Math
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/snehilsin/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/snehilsin/LeetCode/tree/master/0268-missing-number) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/snehilsin/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/snehilsin/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/snehilsin/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/snehilsin/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/snehilsin/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/snehilsin/LeetCode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/snehilsin/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/snehilsin/LeetCode/tree/master/1036-rotting-oranges) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/snehilsin/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Graph
 |  |
 | ------- |
@@ -195,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/snehilsin/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/snehilsin/LeetCode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/snehilsin/LeetCode/tree/master/0801-is-graph-bipartite) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/snehilsin/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Linked List
 |  |
 | ------- |
@@ -279,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/snehilsin/LeetCode/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/snehilsin/LeetCode/tree/master/1036-rotting-oranges) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/snehilsin/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/snehilsin/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2737-row-with-maximum-ones](https://github.com/snehilsin/LeetCode/tree/master/2737-row-with-maximum-ones) |
 ## String
 |  |
@@ -326,4 +332,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/snehilsin/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/snehilsin/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 <!---LeetCode Topics End-->
