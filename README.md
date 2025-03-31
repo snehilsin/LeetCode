@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/snehilsin/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/snehilsin/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/snehilsin/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2681-put-marbles-in-bags](https://github.com/snehilsin/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2737-row-with-maximum-ones](https://github.com/snehilsin/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/snehilsin/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/snehilsin/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/snehilsin/LeetCode/tree/master/0268-missing-number) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/snehilsin/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/snehilsin/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2681-put-marbles-in-bags](https://github.com/snehilsin/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/snehilsin/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/snehilsin/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/snehilsin/LeetCode/tree/master/3430-count-days-without-meetings) |
@@ -337,12 +339,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/snehilsin/LeetCode/tree/master/0011-container-with-most-water) |
 | [0768-partition-labels](https://github.com/snehilsin/LeetCode/tree/master/0768-partition-labels) |
+| [2681-put-marbles-in-bags](https://github.com/snehilsin/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/snehilsin/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/snehilsin/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/snehilsin/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2681-put-marbles-in-bags](https://github.com/snehilsin/LeetCode/tree/master/2681-put-marbles-in-bags) |
 ## Number Theory
 |  |
 | ------- |
