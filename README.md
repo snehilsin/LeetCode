@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/snehilsin/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2262-solving-questions-with-brainpower](https://github.com/snehilsin/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/snehilsin/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2280-count-good-triplets-in-an-array](https://github.com/snehilsin/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/snehilsin/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/snehilsin/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2737-row-with-maximum-ones](https://github.com/snehilsin/LeetCode/tree/master/2737-row-with-maximum-ones) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/snehilsin/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/snehilsin/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/snehilsin/LeetCode/tree/master/0268-missing-number) |
+| [2280-count-good-triplets-in-an-array](https://github.com/snehilsin/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/snehilsin/LeetCode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/snehilsin/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/snehilsin/LeetCode/tree/master/0169-majority-element) |
+| [2280-count-good-triplets-in-an-array](https://github.com/snehilsin/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/snehilsin/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/snehilsin/LeetCode/tree/master/0148-sort-list) |
+| [2280-count-good-triplets-in-an-array](https://github.com/snehilsin/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -395,4 +399,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/snehilsin/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/snehilsin/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/snehilsin/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/snehilsin/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/snehilsin/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/snehilsin/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
