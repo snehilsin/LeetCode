@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/snehilsin/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/snehilsin/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/snehilsin/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/snehilsin/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2681-put-marbles-in-bags](https://github.com/snehilsin/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2737-row-with-maximum-ones](https://github.com/snehilsin/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/snehilsin/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/snehilsin/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0768-partition-labels](https://github.com/snehilsin/LeetCode/tree/master/0768-partition-labels) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/snehilsin/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/snehilsin/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/snehilsin/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3548-find-the-count-of-good-integers](https://github.com/snehilsin/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/snehilsin/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/snehilsin/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/snehilsin/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/snehilsin/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Topological Sort
 |  |
 | ------- |
