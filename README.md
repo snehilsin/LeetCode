@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/snehilsin/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0368-largest-divisible-subset](https://github.com/snehilsin/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/snehilsin/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/snehilsin/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2262-solving-questions-with-brainpower](https://github.com/snehilsin/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/snehilsin/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Simulation
