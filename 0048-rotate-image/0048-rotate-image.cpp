@@ -1,21 +1,27 @@
 class Solution {
 public:
     void rotate(vector<vector<int>>& matrix) {
-        // take transpose and then reverse each row
-        int cols = matrix[0].size();
-        int rows = matrix.size();
-        vector<vector<int>> res(cols, vector<int> (rows));
+        // [1, 2, 3]        [7, 4, 1]
+        // [4, 5, 6]        [8, 5, 2]
+        // [7, 8, 9]        [9, 6, 3]
 
-        for (int i = 0; i < rows; i++){
-            for (int j = 0; j < cols; j++){
+        int r = matrix.size();
+        int c = matrix[0].size();
+
+        vector<vector<int>> res(c, vector<int> (r));
+
+        for (int i = 0; i < r; i++){
+            for (int j =  0; j < c; j++){
                 res[j][i] = matrix[i][j];
             }
         }
-        for (int i = 0; i <  rows; i++){
-            reverse(res[i].begin(), res[i].end());
+
+        for ( int i = 0;i < r; i++){
+            reverse( res[i].begin(), res[i].end());
         }
-        for (int i = 0; i < cols; i++){
-            for (int j = 0; j < rows; j++){
+
+        for (int i = 0; i < c; i++){
+            for (int j = 0; j < r; j++){
                 matrix[i][j] = res[i][j];
             }
         }
