@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/snehilsin/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/snehilsin/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/snehilsin/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/snehilsin/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/snehilsin/LeetCode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/snehilsin/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/snehilsin/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/snehilsin/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/snehilsin/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/snehilsin/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/snehilsin/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/snehilsin/LeetCode/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/snehilsin/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/snehilsin/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/snehilsin/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/snehilsin/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/snehilsin/LeetCode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/snehilsin/LeetCode/tree/master/0801-is-graph-bipartite) |
