@@ -1,6 +1,7 @@
 class Solution {
 public:
     bool isSafe(int n, vector<string> &nQueens, int row, int col){
+        // if same column
         for (int i = 0; i < n; i++){
             if (nQueens[i][col] == 'Q'){
                 return false;
