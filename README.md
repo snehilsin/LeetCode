@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/snehilsin/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/snehilsin/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/snehilsin/LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/snehilsin/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/snehilsin/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/snehilsin/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/snehilsin/LeetCode/tree/master/0049-group-anagrams) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/snehilsin/LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/snehilsin/LeetCode/tree/master/0040-combination-sum-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/snehilsin/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
