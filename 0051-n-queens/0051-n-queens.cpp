@@ -7,21 +7,23 @@ public:
                 return false;
             }
         }
+
         // upper left diagonal
-        for (int i = row - 1, j = col -1; i >= 0 && j >= 0; i--, j--){
+        for (int i = row - 1, j = col - 1; i >= 0 && j >= 0; i-- , j--){
             if (nQueens[i][j] == 'Q'){
                 return false;
             }
         }
+
         // upper right
-        for (int i = row -1, j = col + 1; i >= 0 && j < n; i--, j++){
+        for (int i = row - 1, j = col + 1; i >= 0 && j < n; i--, j++){
             if (nQueens[i][j] == 'Q'){
                 return false;
             }
         }
         return true;
     }
-    void helper(int n , vector<vector<string>> &ans, vector<string> &nQueens, int row ){
+    void helper(int n, vector<vector<string>> &ans, vector<string> &nQueens, int row){
         if (row == n){
             ans.push_back(nQueens);
             return;
@@ -29,7 +31,7 @@ public:
 
         // try placing in each col of curr row
         for (int col = 0; col < n; col++){
-            if (isSafe(n, nQueens,  row, col)){
+            if (isSafe(n, nQueens, row, col)){
                 nQueens[row][col] = 'Q';
                 helper(n, ans, nQueens, row + 1);
                 nQueens[row][col] = '.'; // backtrack, try for next pos
