@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/snehilsin/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/snehilsin/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/snehilsin/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0792-binary-search](https://github.com/snehilsin/LeetCode/tree/master/0792-binary-search) |
 | [0945-snakes-and-ladders](https://github.com/snehilsin/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/snehilsin/LeetCode/tree/master/1036-rotting-oranges) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/snehilsin/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/snehilsin/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/snehilsin/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/snehilsin/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0792-binary-search](https://github.com/snehilsin/LeetCode/tree/master/0792-binary-search) |
 | [2280-count-good-triplets-in-an-array](https://github.com/snehilsin/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/snehilsin/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Bit Manipulation
