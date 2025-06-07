@@ -7,8 +7,8 @@ public:
         while (low <= high){
             int mid = low + (high - low) / 2;
             if (nums[mid] == target) return mid;
-
-            // left half sorted
+            
+            //left half sorted
             if (nums[low] <= nums[mid]){
                 if (nums[low] <= target && target <= nums[mid]){
                     high = mid -1;
@@ -16,10 +16,10 @@ public:
                     low = mid + 1;
                 }
             } else {
-                // right half is sorted
+                // right half sorted
                 if (nums[mid] <= target && target <= nums[high]){
                     low = mid + 1;
-                } else {
+                } else{
                     high = mid -1;
                 }
             }
