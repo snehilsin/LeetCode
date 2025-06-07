@@ -1,33 +1,27 @@
 class Solution {
 public:
     int findMin(vector<int>& nums) {
-        //[5, 6, 0, 2, 3]
-        // l     i     r
-        // l     m,r
-        //    m
-        //    l  r
-        //       m
+        // one of the two halves of the array will always be sorted
+        // if arr[low] <= arr[mid] --> left half sorted
+        // if arr[mid] <= arr[high] --> right half sorted
 
-        // if (nums[mid] >= nums[right])   
-        //          then min should be in right half
-        //          low = mid + 1
-        // else 
-        //    high = mid (including mid)
+        // minimum element will always be the leftmost element in any half
 
-        // ans --> nums[low]
-
-       int n = nums.size();
-       int left = 0;
-       int right = n-1;
-       while (left < right){
-        int mid = left + (right - left)/ 2;
-
-        if (nums[mid] >= nums[right]){
-             left = mid + 1;
-        } else {
-            right = mid;
+        int low = 0;
+        int high = nums.size()-1;
+        int ans = INT_MAX;
+        while (low <= high){
+            int mid = low + (high - low) / 2;
+            if (nums[low] <= nums[mid]){
+                //left half sorted
+                ans = min(ans, nums[low]);
+                low = mid + 1;
+            } else {
+                // right half sorted
+                ans = min(ans, nums[mid]);
+                high = mid -1;
+            }
         }
-       }
-       return nums[left];
+        return ans;
     }
 };
