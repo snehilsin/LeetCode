@@ -17,8 +17,10 @@ public:
             long long totalH = calculateTotalHrs(piles, mid);
             if (totalH <= h){
                 ans = mid;
+                // search for more smaller hourly rates
                 high = mid -1;
             } else {
+                // if totalH > h that means you need to search for greater hourly rates
                 low = mid + 1;
             }
         }
