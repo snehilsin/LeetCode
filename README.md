@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/snehilsin/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/snehilsin/LeetCode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/snehilsin/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/snehilsin/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/snehilsin/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/snehilsin/LeetCode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/snehilsin/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/snehilsin/LeetCode/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/snehilsin/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0768-partition-labels](https://github.com/snehilsin/LeetCode/tree/master/0768-partition-labels) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/snehilsin/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/snehilsin/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/snehilsin/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2681-put-marbles-in-bags](https://github.com/snehilsin/LeetCode/tree/master/2681-put-marbles-in-bags) |
