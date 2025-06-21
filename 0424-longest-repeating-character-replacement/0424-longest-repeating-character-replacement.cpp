@@ -2,7 +2,7 @@ class Solution {
 public:
     int characterReplacement(string s, int k) {
         
-        // no of conversions = length of string - max(freq of all the chars)
+        // charsNeedToChange = length of string - max(freq of all the chars)
         // so, l - maxf <= k
 
         unordered_map<char, int> mpp;
@@ -17,7 +17,7 @@ public:
             mpp[s[r]]++;
             maxfreq = max(maxfreq, mpp[s[r]]);
 
-            while ( (r - l + 1) - maxfreq > k){
+            while ((r-l+1) - maxfreq > k){
                 // not valid window
                 // shrink
                 mpp[s[l]]--;
@@ -26,8 +26,6 @@ public:
                 }
                 l++;
             }
-
-            // if valid, update maxlen
             maxlen = max(maxlen, r - l + 1);
             r++;
         }
