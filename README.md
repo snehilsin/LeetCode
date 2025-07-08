@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/snehilsin/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/snehilsin/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/snehilsin/LeetCode/tree/master/1656-count-good-triplets) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/snehilsin/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/snehilsin/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/snehilsin/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/snehilsin/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/snehilsin/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/snehilsin/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/snehilsin/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/snehilsin/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/snehilsin/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2280-count-good-triplets-in-an-array](https://github.com/snehilsin/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/snehilsin/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/snehilsin/LeetCode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/snehilsin/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/snehilsin/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/snehilsin/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/snehilsin/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/snehilsin/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/snehilsin/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/snehilsin/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/snehilsin/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/snehilsin/LeetCode/tree/master/0542-01-matrix) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/snehilsin/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/snehilsin/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2262-solving-questions-with-brainpower](https://github.com/snehilsin/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/snehilsin/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
