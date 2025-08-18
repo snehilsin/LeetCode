@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/snehilsin/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/snehilsin/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/snehilsin/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0679-24-game](https://github.com/snehilsin/LeetCode/tree/master/0679-24-game) |
 | [0792-binary-search](https://github.com/snehilsin/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/snehilsin/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/snehilsin/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/snehilsin/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/snehilsin/LeetCode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/snehilsin/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0679-24-game](https://github.com/snehilsin/LeetCode/tree/master/0679-24-game) |
 | [1013-fibonacci-number](https://github.com/snehilsin/LeetCode/tree/master/1013-fibonacci-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/snehilsin/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/snehilsin/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -617,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/snehilsin/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/snehilsin/LeetCode/tree/master/0051-n-queens) |
 | [0131-palindrome-partitioning](https://github.com/snehilsin/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0679-24-game](https://github.com/snehilsin/LeetCode/tree/master/0679-24-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/snehilsin/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/snehilsin/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Combinatorics
