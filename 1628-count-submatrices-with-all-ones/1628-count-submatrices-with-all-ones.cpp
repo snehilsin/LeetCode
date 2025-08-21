@@ -1,18 +1,20 @@
 class Solution {
 public:
 
-    int helper( vector<vector<int>> &mat, int a , int b){
+    int helper(vector<vector<int>> &mat, int a , int b){
         // submatrices with top-left corner at mat[a][b]
 
         int m = mat.size();
         int n = mat[0].size();
         int count = 0;
         int bound = n;
-        for ( int i = a; i < m; i++){
-            for ( int j = b; j < bound; j++){
-                if (mat[i][j]) count += 1;
-                else bound = j;
-
+        for (int i = a; i < m; i++){
+            for(int j = b; j < bound; j++){
+                if (mat[i][j]){
+                    count += 1;
+                } else {
+                    bound = j;
+                }
             }
         }
         return count;
@@ -23,8 +25,9 @@ public:
         int n = mat[0].size();
 
         int count = 0;
-        for ( int i = 0; i < m; i++){
-            for ( int j = 0; j < n; j++){
+
+        for (int i = 0; i < m; i++){
+            for (int j = 0; j < n; j++){
                 count += helper(mat, i, j);
             }
         }
