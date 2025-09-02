@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/snehilsin/LeetCode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/snehilsin/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/snehilsin/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/snehilsin/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/snehilsin/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/snehilsin/LeetCode/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/snehilsin/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/snehilsin/LeetCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/snehilsin/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/snehilsin/LeetCode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/snehilsin/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/snehilsin/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/snehilsin/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/snehilsin/LeetCode/tree/master/0242-valid-anagram) |
@@ -583,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/snehilsin/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/snehilsin/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/snehilsin/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/snehilsin/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/snehilsin/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
