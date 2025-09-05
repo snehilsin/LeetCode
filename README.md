@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/snehilsin/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/snehilsin/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/snehilsin/LeetCode/tree/master/0945-snakes-and-ladders) |
+| [1032-satisfiability-of-equality-equations](https://github.com/snehilsin/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/snehilsin/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/snehilsin/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/snehilsin/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/snehilsin/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/snehilsin/LeetCode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/snehilsin/LeetCode/tree/master/0801-is-graph-bipartite) |
+| [1032-satisfiability-of-equality-equations](https://github.com/snehilsin/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/snehilsin/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Union Find
 |  |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/snehilsin/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/snehilsin/LeetCode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/snehilsin/LeetCode/tree/master/0801-is-graph-bipartite) |
+| [1032-satisfiability-of-equality-equations](https://github.com/snehilsin/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1073-number-of-enclaves](https://github.com/snehilsin/LeetCode/tree/master/1073-number-of-enclaves) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/snehilsin/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Linked List
@@ -573,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/snehilsin/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/snehilsin/LeetCode/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/snehilsin/LeetCode/tree/master/0768-partition-labels) |
+| [1032-satisfiability-of-equality-equations](https://github.com/snehilsin/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/snehilsin/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/snehilsin/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/snehilsin/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
