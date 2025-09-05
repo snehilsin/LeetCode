@@ -7,12 +7,12 @@ public:
         }
 
         vector<int> indegree(numCourses, 0);
+
         for (int i = 0; i < numCourses; i++){
             for (auto it : adj[i]){
                 indegree[it]++;
             }
         }
-
         queue<int> q;
         for (int i = 0; i < numCourses; i++){
             if (indegree[i] == 0){
@@ -25,16 +25,14 @@ public:
             int node = q.front();
             q.pop();
             topo.push_back(node);
-            for (auto it : adj[node]){
-                 indegree[it]--;
-                 if (indegree[it] == 0){
-                    q.push(it);
-                 }
+            for (int adjNode : adj[node]){
+                indegree[adjNode]--;
+                if (indegree[adjNode] == 0){
+                    q.push(adjNode);
+                }
             }
         }
-        if (topo.size() == numCourses){
-            return topo;
-        }
+        if (topo.size() == numCourses) return topo;
         return {};
     }
 };
