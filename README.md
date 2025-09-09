@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/snehilsin/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/snehilsin/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2262-solving-questions-with-brainpower](https://github.com/snehilsin/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/snehilsin/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/snehilsin/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/snehilsin/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/snehilsin/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/snehilsin/LeetCode/tree/master/0043-multiply-strings) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/snehilsin/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/snehilsin/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/snehilsin/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -615,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/snehilsin/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/snehilsin/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/snehilsin/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/snehilsin/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/snehilsin/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Sliding Window
 |  |
