@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/snehilsin/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/snehilsin/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/snehilsin/LeetCode/tree/master/0945-snakes-and-ladders) |
+| [1006-vowel-spellchecker](https://github.com/snehilsin/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1014-k-closest-points-to-origin](https://github.com/snehilsin/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1032-satisfiability-of-equality-equations](https://github.com/snehilsin/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/snehilsin/LeetCode/tree/master/1036-rotting-oranges) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/snehilsin/LeetCode/tree/master/0768-partition-labels) |
 | [0889-buddy-strings](https://github.com/snehilsin/LeetCode/tree/master/0889-buddy-strings) |
 | [0940-fruit-into-baskets](https://github.com/snehilsin/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [1006-vowel-spellchecker](https://github.com/snehilsin/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/snehilsin/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/snehilsin/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/snehilsin/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/snehilsin/LeetCode/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/snehilsin/LeetCode/tree/master/0768-partition-labels) |
 | [0889-buddy-strings](https://github.com/snehilsin/LeetCode/tree/master/0889-buddy-strings) |
+| [1006-vowel-spellchecker](https://github.com/snehilsin/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1032-satisfiability-of-equality-equations](https://github.com/snehilsin/LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1250-longest-common-subsequence](https://github.com/snehilsin/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/snehilsin/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
