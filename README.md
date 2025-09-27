@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/snehilsin/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/snehilsin/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/snehilsin/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/snehilsin/LeetCode/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/snehilsin/LeetCode/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/snehilsin/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/snehilsin/LeetCode/tree/master/0542-01-matrix) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/snehilsin/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/snehilsin/LeetCode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/snehilsin/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0486-predict-the-winner](https://github.com/snehilsin/LeetCode/tree/master/0486-predict-the-winner) |
 | [0679-24-game](https://github.com/snehilsin/LeetCode/tree/master/0679-24-game) |
 | [1013-fibonacci-number](https://github.com/snehilsin/LeetCode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/snehilsin/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/snehilsin/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/snehilsin/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/snehilsin/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/snehilsin/LeetCode/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/snehilsin/LeetCode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/snehilsin/LeetCode/tree/master/0542-01-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/snehilsin/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -514,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/snehilsin/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/snehilsin/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/snehilsin/LeetCode/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/snehilsin/LeetCode/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/snehilsin/LeetCode/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/snehilsin/LeetCode/tree/master/2050-count-good-numbers) |
 ## Tree
@@ -853,4 +857,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/snehilsin/LeetCode/tree/master/0744-network-delay-time) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/snehilsin/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
