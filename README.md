@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/snehilsin/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/snehilsin/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/snehilsin/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/snehilsin/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/snehilsin/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/snehilsin/LeetCode/tree/master/3827-implement-router) |
 ## Two Pointers
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/snehilsin/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/snehilsin/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/snehilsin/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/snehilsin/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/snehilsin/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/snehilsin/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3336-water-bottles-ii](https://github.com/snehilsin/LeetCode/tree/master/3336-water-bottles-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/snehilsin/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Depth-First Search
 |  |
 | ------- |
