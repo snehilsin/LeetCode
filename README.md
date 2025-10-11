@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/snehilsin/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/snehilsin/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3430-count-days-without-meetings](https://github.com/snehilsin/LeetCode/tree/master/3430-count-days-without-meetings) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/snehilsin/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/snehilsin/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/snehilsin/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/snehilsin/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2414-move-pieces-to-obtain-a-string](https://github.com/snehilsin/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/snehilsin/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/snehilsin/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/snehilsin/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Math
 |  |
 | ------- |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/snehilsin/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/snehilsin/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/snehilsin/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/snehilsin/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/snehilsin/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3548-find-the-count-of-good-integers](https://github.com/snehilsin/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/snehilsin/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/snehilsin/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/snehilsin/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/snehilsin/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/snehilsin/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3827-implement-router](https://github.com/snehilsin/LeetCode/tree/master/3827-implement-router) |
 ## Bit Manipulation
 |  |
@@ -353,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/snehilsin/LeetCode/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/snehilsin/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/snehilsin/LeetCode/tree/master/3430-count-days-without-meetings) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/snehilsin/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/snehilsin/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3748-sort-matrix-by-diagonals](https://github.com/snehilsin/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Prefix Sum
@@ -386,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/snehilsin/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/snehilsin/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/snehilsin/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/snehilsin/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/snehilsin/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
@@ -418,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/snehilsin/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/snehilsin/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/snehilsin/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/snehilsin/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/snehilsin/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/snehilsin/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Simulation
