@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/snehilsin/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/snehilsin/LeetCode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/snehilsin/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0382-linked-list-random-node](https://github.com/snehilsin/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0486-predict-the-winner](https://github.com/snehilsin/LeetCode/tree/master/0486-predict-the-winner) |
 | [0679-24-game](https://github.com/snehilsin/LeetCode/tree/master/0679-24-game) |
 | [1013-fibonacci-number](https://github.com/snehilsin/LeetCode/tree/master/1013-fibonacci-number) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/snehilsin/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/snehilsin/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/snehilsin/LeetCode/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/snehilsin/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0908-middle-of-the-linked-list](https://github.com/snehilsin/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/snehilsin/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -905,4 +907,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/snehilsin/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/snehilsin/LeetCode/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/snehilsin/LeetCode/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
