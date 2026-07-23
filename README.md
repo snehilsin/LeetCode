@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/snehilsin/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/snehilsin/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/snehilsin/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/snehilsin/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/snehilsin/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/snehilsin/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/snehilsin/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/snehilsin/LeetCode/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/snehilsin/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3433-count-mentions-per-user](https://github.com/snehilsin/LeetCode/tree/master/3433-count-mentions-per-user) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/snehilsin/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/snehilsin/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/snehilsin/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/snehilsin/LeetCode/tree/master/3830-find-closest-person) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/snehilsin/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/snehilsin/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/snehilsin/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/snehilsin/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/snehilsin/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Sorting
 |  |
