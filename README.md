@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-count-days-without-meetings](https://github.com/snehilsin/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3433-count-mentions-per-user](https://github.com/snehilsin/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/snehilsin/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/snehilsin/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/snehilsin/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3748-sort-matrix-by-diagonals](https://github.com/snehilsin/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Prefix Sum
@@ -714,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3243-count-the-number-of-powerful-integers](https://github.com/snehilsin/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/snehilsin/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/snehilsin/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/snehilsin/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/snehilsin/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/snehilsin/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3797-design-spreadsheet](https://github.com/snehilsin/LeetCode/tree/master/3797-design-spreadsheet) |
@@ -921,4 +923,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/snehilsin/LeetCode/tree/master/0382-linked-list-random-node) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/snehilsin/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
