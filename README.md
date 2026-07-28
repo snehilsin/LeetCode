@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/snehilsin/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1646-kth-missing-positive-number](https://github.com/snehilsin/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/snehilsin/LeetCode/tree/master/1656-count-good-triplets) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/snehilsin/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1753-path-with-minimum-effort](https://github.com/snehilsin/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/snehilsin/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/snehilsin/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
